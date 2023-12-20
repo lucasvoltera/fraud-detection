@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/390575429134455808/1389f10420ca4f09bef54f7dacb8914c/artifacts
+end_time: 1703103386531
+entry_point_name: ''
+experiment_id: '390575429134455808'
+lifecycle_stage: active
+run_id: 1389f10420ca4f09bef54f7dacb8914c
+run_name: Sem log - Light GBM
+run_uuid: 1389f10420ca4f09bef54f7dacb8914c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703103074768
+status: 3
+tags: []
+user_id: Lucas
