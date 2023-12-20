@@ -14,17 +14,17 @@
 
  - **Financials**:
 
-  - **Fraud Losses**: $25,353.320
-  - **Revenue**: $80,329.995
-  - **Profit**: $54,976.675
-  - **Profit Margin**: 68.44%.
+  1. **Fraud Losses**: $25,353.320
+  2. **Revenue**: $80,329.995
+  3. **Profit**: $54,976.675
+  4. **Profit Margin**: 68.44%.
 
  - **Model Performance**:
 
-  - **Fraud Rate**: 2%
-  - **Approval Rate**: 74%
-  - **Log Loss**: 8.2526
-  - **ROC-AUC**: 0.7193
+  1. **Fraud Rate**: 2%
+  2. **Approval Rate**: 74%
+  3. **Log Loss**: 8.2526
+  4. **ROC-AUC**: 0.7193
 
  The lack of a clear distinction between the classes, as evidenced in the image, along with the presented performance metrics, indicates the need for a review and potential reconfiguration of the model. This may involve considering additional features, applying class balancing techniques, or experimenting with different classification algorithms.
 
@@ -69,20 +69,20 @@
 
  **Financial Performance and Metrics**:
 
- - **Optimal Threshold**: 67
- - **Fraud Losses**: $29,896.12
- - **Revenue**: $97,932.204
- - **Profit**: $68,036.084
- - **ROC-AUC**: 0.8500
- - **Fraud Rate**: 0.02
- - **Approval Rate**: 0.86
- - **Profit/Revenue Ratio**: 72%
+ 1. **Optimal Threshold**: 67
+ 2. **Fraud Losses**: $29,896.12
+ 3. **Revenue**: $97,932.204
+ 4. **Profit**: $68,036.084
+ 5. **ROC-AUC**: 0.8500
+ 6. **Fraud Rate**: 0.02
+ 7. **Approval Rate**: 0.86
+ 8. **Profit/Revenue Ratio**: 72%
 
  **Comparison between Current Model and Trained Model**:
 
- - **Fraud Rate**: Remains constant at 0.02 for both models.
- - **Approval Rate**: The Trained Model has a higher approval rate, 0.85 compared to 0.74 for the Current Model.
- - **Profit/Revenue Ratio**: The Trained Model shows a 4% improvement, increasing from 68% in the Current Model to 72%.
+ 1. **Fraud Rate**: Remains constant at 0.02 for both models.
+ 2. **Approval Rate**: The Trained Model has a higher approval rate, 0.85 compared to 0.74 for the Current Model.
+ 3. **Profit/Revenue Ratio**: The Trained Model shows a 4% improvement, increasing from 68% in the Current Model to 72%.
 
  ## 🚀 Conclusions and Next Steps
 
