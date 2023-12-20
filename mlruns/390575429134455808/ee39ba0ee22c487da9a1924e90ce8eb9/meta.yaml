@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/390575429134455808/ee39ba0ee22c487da9a1924e90ce8eb9/artifacts
+end_time: 1703091964263
+entry_point_name: ''
+experiment_id: '390575429134455808'
+lifecycle_stage: active
+run_id: ee39ba0ee22c487da9a1924e90ce8eb9
+run_name: efficient-donkey-80
+run_uuid: ee39ba0ee22c487da9a1924e90ce8eb9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1703091963886
+status: 3
+tags: []
+user_id: Lucas
